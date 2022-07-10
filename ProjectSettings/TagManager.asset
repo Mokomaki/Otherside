@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EffectManager
+  - GameManager
+  - SavePoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walkable
+  - Player
+  - PostProcessing
+  - Enemy
+  - PlayerProjectile
+  - EnemyProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3587653465
+    locked: 0
+  - name: TileBack
+    uniqueID: 2841371293
+    locked: 0
+  - name: TileFront
+    uniqueID: 726294043
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3722987961
+    locked: 0
+  - name: Water
+    uniqueID: 3477281815
+    locked: 0
